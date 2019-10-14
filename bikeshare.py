@@ -11,6 +11,7 @@ month_list = ['january', 'february', 'march', 'april', 'may', 'june']
 day_list = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
 def get_filters():
+    #Change number 2 for section 3
     print('Hello! Let\'s explore some US bikeshare data!')
     print("Your choices are Washington, New York or Chicago")
 

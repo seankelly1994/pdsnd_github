@@ -1,3 +1,2 @@
-data/chicago.csv,
-data/new_york.csv,
-data/washington.scv
+#Ignore Data folder
+data/

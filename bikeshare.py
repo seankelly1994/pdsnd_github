@@ -50,6 +50,7 @@ def get_filters():
 
 def load_data(city, month, day):
      # load data file into a dataframe
+     # Change for section 4
     df = pd.read_csv(CITY_DATA[city])
 
     # convert the Start Time column to datetime
